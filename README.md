@@ -1,16 +1,16 @@
-# Firebase Autthentication Boilerplate with React & Tailwind
+# Voice Notes
 
-A tailwind & firebase authentication starting point for any future SASS projects. Designed using a custom hooks architecture. Development roadmap and feature features :
+Your not so typical todo app portfolio project. I was interested in learning about Web UI interaction with voice. This project was boilerplated with my firebase/tailwind authentication seen [Firebase/tailwind Authentication Boilerplate](https://github.com/simoncarriere/firebasetailwind-authboiler)
 
-- [x] Email Signup with forget password
-- [x] Social Logins (Google, Twitter, Github)
-- [x] Tailwind Dark Mode
-- [x] Social Auth Error Management
+Development roadmap and feature features :
+
+- [x] Email and Social Login Authenticaion
 - [x] Settings page for account deletion, email update and password reset.
 - [x] Email verification
 - [ ] Welcome Email
 - [ ] Update to Firebase v9
 - [ ] Custom Reset Password page
+- [ ] VOice
 
 ## Setup
 
